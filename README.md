@@ -101,15 +101,16 @@ We used Python and various libraries for data analysis, including Pandas for dat
 
 ## 15. Directory Structure
 
-/DSCI Final Project # project root 
-├── Dataset1.csv # Raw and processed data files
-├── data.pdf #Dataset2 pdf file
-├── Cyberattack_Dataset2.xlsx
-├── Combined_Cybersecurity_Dataset.csv
-├── Cybersecurity Attacks Project.ipynb   # Jupyter notebooks for analysis
-├── README.md               # This README file
-└── presentation.pptx       # Project presentation slides
-└── Final Project Presentation.mp4 # Presentation Video 
+```plaintext
+project_root/
+├── Dataset1.csv                  # Raw and processed data files
+├── data.pdf                      # Supplementary dataset in PDF format
+├── Cyberattack_Dataset2.xlsx     # Raw and cleaned data from additional sources
+├── Combined_Cybersecurity_Dataset.csv # Consolidated and processed dataset
+├── Cybersecurity Attacks Project.ipynb # Jupyter notebook for analysis and visualization
+├── README.md                     # This README file
+├── presentation.pptx             # Final project presentation slides
+└── Final Project Presentation.mp4 # Recorded presentation video
 
 
 ## 16. Acknowledgments
